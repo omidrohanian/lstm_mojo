@@ -1,4 +1,3 @@
-# lstm_mojo
 A simple LSTM network for sequence labelling of web-scraped text 
 
 We first extract some text from semanticlaly related and preselected articles from Wikipedia, preprocess and run it through an 
